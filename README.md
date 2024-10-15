@@ -1,6 +1,6 @@
 # My Assessment Repository
 
-**By: Jenny Isabelle Formentera 
+By: Jenny Isabelle Formentera 
 
 This repository contains my assessment submission for the module
 
